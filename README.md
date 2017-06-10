@@ -1,5 +1,5 @@
 # relation-network
-implement relation network introduced by deepmind using keras.
+keras implementation of  [A simple neural network module for relational reasoning](https://arxiv.org/pdf/1706.01427.pdf)
 
 Relation network is a noval neural network introduced by deepmind in [A simple neural network module for relational reasoning](https://arxiv.org/pdf/1706.01427.pdf). It can achieve super-human performance in challenging visual question answering datasets such as CLEVR.
 
